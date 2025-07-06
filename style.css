@@ -9,13 +9,13 @@ input, select { margin: 0.5rem 1rem 0.5rem 0; }
 input[type='number'] { width: 30px; }
 button#submit, button#priority, button#remove {
   padding: 5px 10px;
-  margin-top: 1rem;
+  margin-top: 2rem;
   background-color: royalblue;
-  color: white;
+  color: black;
   border-style: none;
 }
-button#priority { background-color: olivedrab; }
-button#remove { background-color: firebrick; }
+button#priority { background-color: black; }
+button#remove { background-color: black; }
 table {
   margin-top: 2rem;
   border: solid 2px lightgray;
