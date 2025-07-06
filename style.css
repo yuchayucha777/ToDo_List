@@ -14,15 +14,15 @@ button#submit, button#priority, button#remove {
   color: black;
   border-style: none;
 }
-button#priority { background-color: black; }
-button#remove { background-color: black; }
+button#priority { background-color: green; }
+button#remove { background-color: red; }
 table {
   margin-top: 2rem;
-  border: solid 2px lightgray;
+  border: solid 3px lightgray;
   border-collapse: collapse;
 }
 th, td {
-  border: solid 1px lightgray;
+  border: solid 2px lightgray;
   border-collapse: collapse;
 }
 th {
